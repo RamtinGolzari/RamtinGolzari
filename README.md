@@ -2,7 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00F7FF&center=true&vCenter=true&width=520&lines=Ramtin+Golzari;Beginner+Developer;Learning+Step+by+Step;Building+Skills+Every+Day" />
 
-# ⚡ Ramtin Golzari
 **Beginner Developer • Continuous Learning • Clean Code**
 
 </div>
